@@ -1,0 +1,1 @@
+Expenso is a futuristic, interactive personal finance tracker built with React and Recharts. It lets you track incomes and expenses, visualize your financial health with charts, toggle between dark/light mode, and download your report as a PDF.
